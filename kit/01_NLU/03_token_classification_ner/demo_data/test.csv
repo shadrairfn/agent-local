@@ -1,0 +1,5 @@
+document_id,full_text,tokens
+Test_001,Mahasiswa baru bernama Dian Sastro menghubungi via dian@kampus.id hari ini.,"[""Mahasiswa"", ""baru"", ""bernama"", ""Dian"", ""Sastro"", ""menghubungi"", ""via"", ""dian@kampus.id"", ""hari"", ""ini.""]"
+Test_002,Senior engineer Tony Stark provided contact number 08199988877 for verification.,"[""Senior"", ""engineer"", ""Tony"", ""Stark"", ""provided"", ""contact"", ""number"", ""08199988877"", ""for"", ""verification.""]"
+Test_003,Ketua tim Joko Widodo mengirim email ke joko@pemerintah.go.id resmi.,"[""Ketua"", ""tim"", ""Joko"", ""Widodo"", ""mengirim"", ""email"", ""ke"", ""joko@pemerintah.go.id"", ""resmi.""]"
+Test_004,Researcher Peter Parker reported findings via peter@lab.edu yesterday.,"[""Researcher"", ""Peter"", ""Parker"", ""reported"", ""findings"", ""via"", ""peter@lab.edu"", ""yesterday.""]"

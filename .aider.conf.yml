@@ -1,0 +1,11 @@
+# Aider -> Ollama lokal (mode offline)
+model: ollama_chat/qwen3-4b-ctx16k
+edit-format: whole        # paling andal untuk model kecil
+map-tokens: 0             # matikan repo map agar prompt kecil di CPU
+git: false                # folder ini bukan repo git
+auto-commits: false
+analytics-disable: true
+check-update: false
+show-model-warnings: false
+stream: true
+pretty: true

@@ -1,0 +1,25 @@
+id,text,stage1_pred_label,stage1_prob_negatif,stage1_prob_netral,stage1_prob_positif
+CHN_TE_000,"PARAH BANGET!! Aplikasi pajak daerah error2 terus dr pagi, ga bisa login padahal udh bayar Rp 250.000 #KecewaBerat @pemda_id (TestRef:0)",negatif,0.8753,0.0891,0.0357
+CHN_TE_001,"Jujur kecewa bgt sm pelayanan loket 3, petugasnya jutek2 & ga ramah sama sekali kpd lansia!! Tolong dievaluasi segera! (TestRef:1)",negatif,0.8445,0.1137,0.0418
+CHN_TE_002,Kenapa server pendaftaran beasiswa down mulu sih?? Padahal batas upload berkas tinggal 2 jam lg lhooo 😭😭 (TestRef:2),negatif,0.8294,0.1287,0.0419
+CHN_TE_003,Pungutan biaya admin Rp 50rb tanpa kuitansi resmi di kantor kecamatan itu beneran aturan baru atau pungli ya?? Bahaya bgt! (TestRef:3),negatif,0.8958,0.0786,0.0256
+CHN_TE_004,"Tolong dong sistem antrean online diperbaiki, masa udh daftar dr subuh tp pas nyampe lokasi malah dibilang data gk ditemukan! (TestRef:4)",negatif,0.8479,0.1019,0.0502
+CHN_TE_005,Jadwal operasional layanan perpustakaan daerah buka setiap hari Senin sampai Jumat pukul 08.00 hingga 16.00 WIB. (TestRef:0),netral,0.0699,0.8407,0.0894
+CHN_TE_006,Apakah perpanjangan dokumen kependudukan bisa diwakilkan oleh anggota keluarga dalam satu kartu keluarga yang sama? (TestRef:1),netral,0.0889,0.8188,0.0923
+CHN_TE_007,Pengumuman pemeliharaan berkala jaringan portal layanan terpadu akan dilaksanakan pada hari Minggu pukul 01.00 dini hari. (TestRef:2),netral,0.0626,0.8582,0.0792
+CHN_TE_008,"Syarat pengajuan bantuan usaha mikro meliputi fotokopi KTP, surat keterangan usaha dari kelurahan, dan nomor rekening aktif. (TestRef:3)",netral,0.0738,0.8345,0.0918
+CHN_TE_009,"Alhamdulillah sekarang urus KTP digital & KK lewat aplikasi baru cepet bgt!! Ga sampe 15 menit udh beres semua, mantap jiwa 👍🔥 (TestRef:4)",positif,0.025,0.0611,0.9139
+CHN_TE_010,Terima kasih banyak kpd tim CS pengaduan warga yg udh gercep bgt nanganin laporan lampu jalan mati di komplek kami tadi malam! (TestRef:0),positif,0.0359,0.1051,0.859
+CHN_TE_011,"Fitur pembayaran QRIS di portal retribusi daerah sangat memudahkan warga, ga perlu repot antre bawa uang tunai lagi. Keren! (TestRef:1)",positif,0.0341,0.0917,0.8743
+CHN_TE_012,"PARAH BANGET!! Aplikasi pajak daerah error2 terus dr pagi, ga bisa login padahal udh bayar Rp 250.000 #KecewaBerat @pemda_id (TestRef:2)",negatif,0.91,0.0732,0.0169
+CHN_TE_013,"Jujur kecewa bgt sm pelayanan loket 3, petugasnya jutek2 & ga ramah sama sekali kpd lansia!! Tolong dievaluasi segera! (TestRef:3)",negatif,0.8294,0.124,0.0466
+CHN_TE_014,Kenapa server pendaftaran beasiswa down mulu sih?? Padahal batas upload berkas tinggal 2 jam lg lhooo 😭😭 (TestRef:4),negatif,0.83,0.1149,0.0551
+CHN_TE_015,Pungutan biaya admin Rp 50rb tanpa kuitansi resmi di kantor kecamatan itu beneran aturan baru atau pungli ya?? Bahaya bgt! (TestRef:0),negatif,0.9241,0.0453,0.0306
+CHN_TE_016,"Tolong dong sistem antrean online diperbaiki, masa udh daftar dr subuh tp pas nyampe lokasi malah dibilang data gk ditemukan! (TestRef:1)",negatif,0.8475,0.1062,0.0464
+CHN_TE_017,Jadwal operasional layanan perpustakaan daerah buka setiap hari Senin sampai Jumat pukul 08.00 hingga 16.00 WIB. (TestRef:2),netral,0.0786,0.8392,0.0822
+CHN_TE_018,Apakah perpanjangan dokumen kependudukan bisa diwakilkan oleh anggota keluarga dalam satu kartu keluarga yang sama? (TestRef:3),netral,0.1081,0.7816,0.1103
+CHN_TE_019,Pengumuman pemeliharaan berkala jaringan portal layanan terpadu akan dilaksanakan pada hari Minggu pukul 01.00 dini hari. (TestRef:4),netral,0.0949,0.8165,0.0886
+CHN_TE_020,"Syarat pengajuan bantuan usaha mikro meliputi fotokopi KTP, surat keterangan usaha dari kelurahan, dan nomor rekening aktif. (TestRef:0)",netral,0.0701,0.844,0.0858
+CHN_TE_021,"Alhamdulillah sekarang urus KTP digital & KK lewat aplikasi baru cepet bgt!! Ga sampe 15 menit udh beres semua, mantap jiwa 👍🔥 (TestRef:1)",positif,0.041,0.0936,0.8654
+CHN_TE_022,Terima kasih banyak kpd tim CS pengaduan warga yg udh gercep bgt nanganin laporan lampu jalan mati di komplek kami tadi malam! (TestRef:2),positif,0.0357,0.0751,0.8892
+CHN_TE_023,"Fitur pembayaran QRIS di portal retribusi daerah sangat memudahkan warga, ga perlu repot antre bawa uang tunai lagi. Keren! (TestRef:3)",positif,0.0101,0.0996,0.8903

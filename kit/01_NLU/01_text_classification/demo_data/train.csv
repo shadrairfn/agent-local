@@ -1,0 +1,61 @@
+id,full_text,label,topic_id
+TRN_000,"Aplikasi ini sangat luar biasa, performanya cepat dan fitur terbarunya sangat membantu efisiensi kerja tim.",positive,app_review
+TRN_001,"Pelayanan customer service sangat responsif dan ramah, masalah saya langsung terselesaikan dalam lima menit.",positive,service
+TRN_002,"Desain antarmuka pengguna sangat modern, elegan, dan navigasinya sangat mudah dipahami pemula.",positive,ui_design
+TRN_003,"Kualitas produk sangat bagus, material kokoh dan pengiriman datang dua hari lebih cepat dari estimasi.",positive,product
+TRN_004,"Sistem machine learning bekerja dengan akurasi sangat tinggi, deteksi otomatisnya luar biasa akurat.",positive,ai_tech
+TRN_005,"Integrasi API sangat mulus, dokumentasinya lengkap dan sangat ramah untuk developer pemula.",positive,developer
+TRN_006,"Fitur pencarian semantik sangat cerdas, mampu menemukan artikel ilmiah yang relevan dalam sekejap.",positive,search
+TRN_007,"Harga paket berlangganan sangat terjangkau dibanding kompetitor lain, fitur yang didapat sangat melimpah.",positive,pricing
+TRN_008,Pembaruan versi terbaru membawa banyak peningkatan stabilitas dan konsumsi baterai jadi jauh lebih hemat.,positive,performance
+TRN_009,"Sangat merekomendasikan platform ini kepada semua rekan kerja, produktivitas harian kami meningkat pesat.",positive,recommendation
+TRN_010,"Koneksi server sangat stabil, latensi sangat rendah bahkan saat jam sibuk sekalipun.",positive,network
+TRN_011,"Fitur kolaborasi tim secara real-time sangat mulus, tidak ada konflik pengeditan sama sekali.",positive,collaboration
+TRN_012,Analisis data yang disajikan dalam dashboard visual sangat informatif dan mudah dipahami manajemen.,positive,analytics
+TRN_013,"Keamanan data sangat terjamin dengan enkripsi end-to-end yang kuat, kami merasa sangat aman.",positive,security
+TRN_014,Proses onboarding pengguna baru sangat menyenangkan dengan tutorial interaktif yang jelas.,positive,onboarding
+TRN_015,Algoritma rekomendasi sangat akurat menyajikan konten yang sesuai dengan minat dan preferensi saya.,positive,ai_tech
+TRN_016,"Dukungan multibahasa sangat fasih, terjemahan istilah teknis ke bahasa Indonesia sangat tepat.",positive,language
+TRN_017,Kinerja rendering grafik 3D sangat cepat dan halus di laptop spesifikasi menengah.,positive,performance
+TRN_018,Sangat puas dengan pembaruan fitur ekspor data ke berbagai format seperti Excel dan PDF.,positive,feature
+TRN_019,"Aplikasi ini benar-benar penyelamat pekerjaan harian saya, bintang lima untuk pengembangnya!",positive,recommendation
+TRN_020,Aplikasi telah diperbarui ke versi 2.4.0 pada tanggal 15 Oktober sesuai jadwal pemeliharaan rutin.,neutral,system_notice
+TRN_021,Pengguna dapat mengakses pengaturan akun melalui menu profil di pojok kanan atas layar.,neutral,documentation
+TRN_022,"Format file yang didukung saat ini mencakup CSV, XLSX, Parquet, dan dokumen JSON terstruktur.",neutral,documentation
+TRN_023,Sistem memerlukan izin akses penyimpanan untuk menyimpan berkas laporan secara lokal.,neutral,permission
+TRN_024,Waktu operasional layanan bantuan pelanggan adalah hari Senin hingga Jumat pukul 08.00 hingga 17.00 WIB.,neutral,service
+TRN_025,Laporan keuangan kuartal ketiga telah dipublikasikan di portal resmi perusahaan.,neutral,financial
+TRN_026,Jumlah total pengguna terdaftar saat ini mencapai 50.000 akun dari seluruh wilayah Indonesia.,neutral,statistics
+TRN_027,Pemberitahuan verifikasi kode OTP akan dikirimkan ke nomor telepon yang telah didaftarkan sebelumnya.,neutral,auth
+TRN_028,Panduan integrasi webhook dapat dibaca pada dokumentasi teknis bagian ketiga.,neutral,developer
+TRN_029,Koneksi jaringan dialihkan ke server cadangan selama proses migrasi basis data berlangsung.,neutral,network
+TRN_030,Paket instalasi perangkat lunak membutuhkan ruang penyimpanan minimal sebesar 500 megabyte.,neutral,requirements
+TRN_031,Sesi login akan kedaluwarsa secara otomatis jika pengguna tidak aktif selama 30 menit.,neutral,auth
+TRN_032,Informasi perubahan syarat dan ketentuan layanan telah dikirimkan ke alamat email pengguna.,neutral,policy
+TRN_033,Grafik di bawah ini menunjukkan tren volume transaksi harian selama bulan September.,neutral,analytics
+TRN_034,Data cadangan dibuat setiap hari pada pukul 02.00 dini hari secara otomatis oleh sistem.,neutral,system_notice
+TRN_035,Pengguna dapat memilih tema tampilan terang atau gelap melalui preferensi aplikasi.,neutral,ui_design
+TRN_036,Faktur pembayaran digital akan diterbitkan otomatis setelah proses transaksi terkonfirmasi bank.,neutral,pricing
+TRN_037,Metode autentikasi dua faktor dapat diaktifkan melalui menu keamanan akun.,neutral,security
+TRN_038,Dokumen ini berisi rangkuman agenda pertemuan teknis tim rekayasa perangkat lunak.,neutral,documentation
+TRN_039,Pemberitahuan pembaruan sistem akan muncul pada bilah status saat versi baru tersedia.,neutral,system_notice
+TRN_040,"Aplikasi sering mengalami force close tiba-tiba saat membuka dokumen berukuran besar, sangat mengganggu!",negative,bug
+TRN_041,"Layanan pelanggan sangat lambat merespons tiket keluhan, sudah tiga hari tidak ada jawaban sama sekali.",negative,service
+TRN_042,"Setelah pembaruan terakhir, baterai ponsel menjadi sangat boros dan perangkat cepat panas berlebih.",negative,performance
+TRN_043,"Desain antarmuka baru sangat membingungkan, tombol menu penting malah disembunyikan dan sulit dicari.",negative,ui_design
+TRN_044,"Koneksi ke server sering terputus di tengah jalan, pekerjaan saya yang belum tersimpan hilang semua.",negative,network
+TRN_045,"Biaya langganan bulanan naik drastis tanpa adanya penambahan fitur yang signifikan, sangat mengecewakan.",negative,pricing
+TRN_046,Proses verifikasi akun sangat berbelit-belit dan kode OTP sering kali tidak kunjung masuk ke SMS.,negative,auth
+TRN_047,"Banyak sekali iklan pop-up yang mengganggu dan menutupi konten utama aplikasi, sangat tidak nyaman.",negative,ads
+TRN_048,Fitur sinkronisasi cloud sering gagal dan menyebabkan duplikasi data yang berantakan.,negative,bug
+TRN_049,Aplikasi terasa sangat lambat dan patah-patah saat melakukan scrolling pada daftar data yang panjang.,negative,performance
+TRN_050,Pembaruan sistem justru merusak fitur ekspor data yang sebelumnya berfungsi dengan normal.,negative,bug
+TRN_051,Sangat kecewa dengan penanganan keluhan pembatalan pesanan yang berbelit-belit dan lambat.,negative,service
+TRN_052,Dokumentasi teknis API sudah usang dan banyak contoh kode yang error saat dijalankan.,negative,developer
+TRN_053,"Algoritma pencarian sangat buruk, kata kunci yang dicari sama sekali tidak cocok dengan hasil yang keluar.",negative,search
+TRN_054,Sistem sering kali gagal memproses pembayaran kartu kredit meskipun saldo mencukupi.,negative,pricing
+TRN_055,Fitur backup otomatis ternyata tidak berfungsi dan data penting kami hilang permanen.,negative,bug
+TRN_056,Notifikasi spam terus-menerus muncul meskipun sudah dimatikan di menu pengaturan.,negative,ads
+TRN_057,Aplikasi memakan terlalu banyak ruang memori RAM sehingga ponsel menjadi sering hang.,negative,performance
+TRN_058,"Tampilan teks terlalu kecil dan kontras warna sangat buruk, membuat mata cepat lelah.",negative,ui_design
+TRN_059,"Sangat tidak merekomendasikan aplikasi ini, kualitasnya menurun drastis sejak berganti manajemen.",negative,recommendation

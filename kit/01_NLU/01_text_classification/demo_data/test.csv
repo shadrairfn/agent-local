@@ -1,0 +1,16 @@
+id,full_text,topic_id
+TST_000,"Fitur otomatisasi laporan mingguan ini sangat menghemat waktu dan tenagaku, mantap sekali!",app_review
+TST_001,Sistem akan melakukan restart otomatis setelah paket pembaruan selesai diunduh.,system_notice
+TST_002,"Aplikasi selalu hang setiap kali mencoba mencetak struk transaksi, mohon segera diperbaiki!",bug
+TST_003,"Navigasi aplikasi sangat intuitif, semua menu penting dapat dijangkau dengan satu tangan.",ui_design
+TST_004,Daftar pertanyaan yang sering diajukan dapat dibaca pada halaman bantuan pengguna.,documentation
+TST_005,"Customer support menolak permintaan pengembalian dana tanpa alasan yang masuk akal, payah!",service
+TST_006,Performa pengolahan data tabular jutaan baris selesai hanya dalam hitungan detik.,performance
+TST_007,Pemberitahuan tagihan bulanan akan dikirimkan setiap tanggal 25 ke email terdaftar.,pricing
+TST_008,"Aplikasi terus meminta login ulang berkali-kali setiap kali berganti jaringan wifi, menjengkelkan!",auth
+TST_009,Platform pembelajaran ini menyajikan materi NLP dengan sangat terstruktur dan mudah dipelajari.,recommendation
+TST_010,Pengguna dapat mengunduh berkas laporan dalam format PDF melalui tombol di bawah ini.,documentation
+TST_011,Iklan video yang tidak bisa di-skip sangat mengganggu kenyamanan membaca artikel.,ads
+TST_012,Akurasi klasifikasi teks bahasa daerah Indonesia sangat memuaskan dan minim salah prediksi.,ai_tech
+TST_013,Ketentuan kebijakan privasi data pengguna dapat ditinjau ulang di portal pusat bantuan.,policy
+TST_014,Server sering mengalami timeout saat mencoba mengunggah foto profil beresolusi tinggi.,network

@@ -1,0 +1,19 @@
+# bukan bagian repo agen
+uji_opencode/
+uji_logs/
+siapa_penulisnya/
+# bobot & model hasil latih (terlalu besar, dibawa terpisah)
+**/models/
+kit/03_OFFLINE_WEIGHTS/
+kit/04_LEGACY_CASES_ARCHIVE/
+*.pth
+*.safetensors
+*.bin
+*.npy
+*.pkl
+# data lomba & keluaran
+submission*.csv
+/*.csv
+**/__pycache__/
+*.log
+.ipynb_checkpoints/
